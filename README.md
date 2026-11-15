@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Muhammed Nabeel KK: Portfolio
 
 Personal portfolio of **Muhammed Nabeel KK**, Full-Stack Developer and founder of [AISYNX](https://aisynx.in). Live at **https://nabeelkk.store**.
@@ -81,3 +82,10 @@ scripts/          capture-screenshots.ts
 - The custom cursor only runs on fine pointers and never blocks clicks or hides focus rings.
 - Touch devices get the full animation set: hover effects play automatically when an element reaches the middle of the screen (`TouchActivator` + the `group-act:` variant, opt in with `data-activate`), cards tilt with scroll, and the 3D hero and pinned horizontal work scroll run at every size. The horizontal scroll falls back to a vertical list on very short screens (`hs` variant, under 600px tall).
 - The site has a skip link, visible focus rings, semantic landmarks, labelled icon buttons and an accessible lightbox.
+=======
+# portfolio
+responsive portfolio
+
+
+https://nabeelkk.github.io/portfolio/
+>>>>>>> 5def941da74afdd29d9fb7c9b121f8d90424f3e3
