@@ -1,0 +1,6 @@
+.next
+out
+_legacy
+node_modules
+public
+*.md
